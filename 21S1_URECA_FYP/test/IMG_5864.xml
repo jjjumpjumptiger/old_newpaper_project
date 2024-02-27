@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_5864.JPG</filename>
+	<path>/home/steve/newspaper/21S1_URECA_FYP/test/IMG_5864.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1218</width>
+		<height>697</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heading_test</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>138</ymin>
+			<xmax>289</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

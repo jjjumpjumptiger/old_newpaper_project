@@ -1,0 +1,26 @@
+<annotation>
+	<folder>早报2020-01</folder>
+	<filename>IMG_5681.JPG</filename>
+	<path>/home/steve/newspaper/21S1 URECA FYP/早报2020-01/IMG_5681.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>573</width>
+		<height>2245</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heading</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>350</ymin>
+			<xmax>542</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

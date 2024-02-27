@@ -1,0 +1,26 @@
+<annotation>
+	<folder>URECA_IMG</folder>
+	<filename>IMG_5788.PNG</filename>
+	<path>C:\Users\ZhangWei\OneDrive - Nanyang Technological University\Year2 sem1\URECA_IMG\IMG_5788.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Headline</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>171</ymin>
+			<xmax>713</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+</annotation>
